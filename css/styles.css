@@ -1,0 +1,153 @@
+body{
+  margin: 0;
+ position: relative;
+
+font-family: 'Merriweather', serif;
+}
+
+h1{
+  width:30%;
+  margin: 0  ;
+  margin-right: 150px;
+  margin-left: 690px;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+
+
+}
+h4{
+  width:30%;
+  margin: 0;
+  margin-right:150px;
+  margin-left: 650px;
+  margin-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+
+
+}
+div.middle{
+}
+div.bottom{
+
+}
+div.top{
+  background-color: powderblue;
+  background-image: url("mountain1.png");
+  height: 1000px;
+  top: 100px;
+  width: auto;
+
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+
+}
+.cloud1
+{
+ display: inline-block;
+ position: absolute;
+ top: 100px;
+
+}
+.cloud2
+{
+  border-radius: 30%;
+  display: inline-block;
+  position: absolute;
+  left:1200px;
+  top: 5px;
+}
+.student
+{
+  height: 200px;
+  width: 200px;
+  margin-left: 700px;
+  margin-top: 50px;
+
+}
+.computer
+{
+  height: 200px;
+  width: 200px;
+  margin-left: 700px;
+}
+.web{
+  height: 200px;
+  width: 200px;
+  margin-left: 700px;
+}
+h2{
+  margin-left: 750px;
+}
+.link
+{
+  margin-top: 100px;
+
+}
+p{
+  margin: 0;
+  margin-right:50px;
+  margin-left: 400px;
+  margin-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+p.para1
+{
+  margin: 0;
+  margin-right:50px;
+  margin-left: 550px;
+  margin-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+p.para2
+{
+  margin: 0;
+  margin-right:200px;
+  margin-left: 700px;
+  margin-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+p.para3
+{
+  margin: 0;
+  margin-right:50px;
+  margin-left: 500px;
+  margin-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+.copy
+{
+  margin-left: 310px;
+  margin-top: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+.bottom
+{
+  margin: 0;
+  margin-right:50px;
+  margin-left: 700px;
+  margin-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+h2.circuit
+{
+
+  margin-right:150px;
+  margin-left: 700px;
+  margin-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+
+}
+h2.python{
+
+  margin-right:150px;
+  margin-left: 550px;
+  margin-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+
+}
